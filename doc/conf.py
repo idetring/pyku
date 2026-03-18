@@ -73,3 +73,12 @@ nbsphinx_thumbnails = {
      'tutorials/distributed_computing': '_static/pyku_distributed.jpg',
      'tutorials/customize_plots': '_static/pyku_customize.jpg',
 }
+
+# For testing only
+# ----------------
+
+# include_patterns = [
+#     "index.rst",
+#     "api.rst",
+#     "analyse.rst"
+# ]
